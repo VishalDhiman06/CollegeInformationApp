@@ -1,4 +1,4 @@
-# 🎓 College Information Management App
+# 🎓 College Information App
 
 A modern Android application built using **Kotlin** and **Jetpack Compose** that helps users manage college information through an intuitive and responsive interface. The application allows users to view, add, edit, and delete **Courses**, **Faculty Members**, and **College Events** using Material 3 components and the MVVM architecture.
 
