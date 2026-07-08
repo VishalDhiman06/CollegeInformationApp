@@ -67,7 +67,7 @@ app/
 # 📱 Screenshot
 
 <p align="center">
-  <img src="college_information_ui.png" width="300" alt="College Information App"/>
+  <img src="output1" width="300" alt="College Information App"/>
 </p>
 
 ---
