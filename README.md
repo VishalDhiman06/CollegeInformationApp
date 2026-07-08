@@ -65,10 +65,10 @@ app/
 ---
 
 # 📱 Screenshot
-# 📱 Screenshot
 
 <p align="center">
   <img src="output1.png" width="700" alt="College Information App"/>
+   <img src="output2.png" width="700" alt="College Information App"/>
 </p>
 
 ---
